@@ -1,0 +1,5 @@
+{
+    "ignorePatterns": ["**/*.d.ts"],
+    "rules": {
+    }
+}
